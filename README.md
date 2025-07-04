@@ -66,17 +66,27 @@ Password: admin123
 
 📁 Project Structure
 
-  shopping-cart/
-├── index.html              # User-facing store
-├── style.css               # Styling
-├── script.js               # Cart UI logic
-├── cart.php                # Saves cart to DB (PHP)
-├── checkout.php            # Displays user’s order summary
-├── db.php                  # DB connection settings
-├── admin_login.php         # Admin login form
-├── admin.php               # Admin panel with all orders
-├── logout.php              # Admin logout
-├── create_db.sql           # SQL file to set up DB and table
+  shopping-cart ->
+  
+   -> index.html              # User-facing store
+
+   -> style.css               # Styling
+
+   -> script.js               # Cart UI logic
+
+   -> cart.php                # Saves cart to DB (PHP)
+
+   -> checkout.php            # Displays user’s order summary
+
+   -> db.php                  # DB connection settings
+
+   -> admin_login.php         # Admin login form
+
+   -> admin.php               # Admin panel with all orders
+
+   -> logout.php              # Admin logout
+
+   -> create_db.sql           # SQL file to set up DB and table
 
 📸 Screenshots
 
